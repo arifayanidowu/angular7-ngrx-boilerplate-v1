@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+html,
+body {
+  font-family: "roboto", sans-serif;
+}
+
+.right,
+.left {
+  float: left;
+  width: calc(50% - 6em);
+  padding: 3em;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
